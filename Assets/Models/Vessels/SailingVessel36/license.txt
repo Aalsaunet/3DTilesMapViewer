@@ -1,0 +1,8 @@
+Model Information:
+* title:	Sailing Yacht
+* source:	https://sketchfab.com/3d-models/sailing-yacht-f19fd3ac34834f2780ab3fd4521f22c8
+* author:	IgYerm (https://sketchfab.com/IgorYerm)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works

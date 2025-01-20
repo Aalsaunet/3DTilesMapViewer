@@ -1,0 +1,11 @@
+Model Information:
+* title:	Arabic temple diorama
+* source:	https://sketchfab.com/3d-models/arabic-temple-diorama-01941ce469b041138a1c9a565e07b19a
+* author:	maheylah (https://sketchfab.com/maheylah)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Arabic temple diorama" (https://sketchfab.com/3d-models/arabic-temple-diorama-01941ce469b041138a1c9a565e07b19a) by maheylah (https://sketchfab.com/maheylah) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

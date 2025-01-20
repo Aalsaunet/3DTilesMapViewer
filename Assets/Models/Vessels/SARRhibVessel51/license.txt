@@ -1,0 +1,8 @@
+Model Information:
+* title:	SAR Rhib
+* source:	https://sketchfab.com/3d-models/sar-rhib-45682c3dcb6b426085e39917b3027784
+* author:	Vladimir (https://sketchfab.com/a3flife)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works

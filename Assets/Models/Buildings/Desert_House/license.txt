@@ -1,0 +1,11 @@
+Model Information:
+* title:	Kaaba in Mecca
+* source:	https://sketchfab.com/3d-models/kaaba-in-mecca-43041d42a0ae4cb58e20a86edc572688
+* author:	agrees_putra (https://sketchfab.com/agrees_putra)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Kaaba in Mecca" (https://sketchfab.com/3d-models/kaaba-in-mecca-43041d42a0ae4cb58e20a86edc572688) by agrees_putra (https://sketchfab.com/agrees_putra) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
