@@ -1,0 +1,10 @@
+{
+    "comment_no_canon": "Result for request api.fourprosolutions.com/geo-locations/stackdiagram/d3483ed7-48f1-4ec2-b08f-cf5edcbdfa6f (objectReferenceNo)",
+    "data": "{\"LocationId\":\"50a53860-19d3-43d8-acc3-a1ae1344cdbd\",\"LocationName\":\"Fourpro East Base\",\"SubLocationId\":\"c125a1da-0260-4ffc-a0f1-3d0d70b479f6\",\"SubLocationName\":\"STACKING AREA A [H]\",\"Columns\":10,\"Height\":4,\"CcuColor\":\"#31af28\",\"Rows\":[{\"Id\":\"7b11d2fe-f050-4df1-b2c8-bb86c47b923b\",\"Name\":\"Row #1\",\"Cells\":[{\"X\":0,\"Y\":3,\"IsEnabled\":true,\"Name\":null},{\"X\":0,\"Y\":2,\"IsEnabled\":true,\"Name\":null},{\"X\":9,\"Y\":3,\"IsEnabled\":true,\"Name\":null},{\"X\":9,\"Y\":0,\"IsEnabled\":false,\"Name\":null},{\"X\":8,\"Y\":0,\"IsEnabled\":false,\"Name\":null}]},{\"Id\":\"40a52ab3-9caf-410b-a19d-f172129531b4\",\"Name\":\"Row #2\",\"Cells\":null}]}",
+    "siteName": "4PRO - EASTBASE",
+    "id": "d3483ed7-48f1-4ec2-b08f-cf5edcbdfa6f",
+    "name": "Stacking Area A",
+    "description": "Stacking Area A",
+    "diagramType": "70708eb3-1744-407f-9270-b282081e5cba",
+    "siteId": "56104551-599c-4a4b-9fea-056768eea763"
+}

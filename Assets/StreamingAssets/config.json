@@ -1,0 +1,152 @@
+{
+    "locations": [
+        {
+            "name": "Oslo",
+            "siteId": "56104551-599c-4a4b-9fea-056768eea763",
+            "api_key": "8f97590faa6c4541a6b9303716b02c23",
+            "signalr_hub": "fourpro_demo_geo",
+            "latitude": 59.902,
+            "longitude": 10.730
+        },
+        {
+            "name": "Moss",
+            "siteId": "56104551-599c-4a4b-9fea-056768eea763",
+            "api_key": "8f97590faa6c4541a6b9303716b02c23",
+            "signalr_hub": "fourpro_demo_geo",
+            "latitude": 59.427028,
+            "longitude": 10.657558,
+            "demoAssetBundle": "FourProEastDemoAsset",
+            "geoObject_properties": [
+                {
+                    "trackingId": "1500LR",
+                    "video_file": "Liebherr-LHM250-CRANE.mp4"
+                },
+                {
+                    "trackingId": "L120H",
+                    "video_file": "Volvo-L120H-wheelloader.mp4"
+                },
+                {
+                    "trackingId": "4PE-Kalmar-175-Stacker",
+                    "video_file": "KalmarDRG450-65-Reachstacker.mp4"
+                },
+                {
+                    "trackingId": "257846800",
+                    "video_file": "ferry_basto_4.mp4"
+                },
+                {
+                    "trackingId": "257122880",
+                    "video_file": "ferry_basto_4.mp4"
+                },
+                {
+                    "trackingId": "259401000",
+                    "video_file": "ferry_basto_4.mp4"
+                },
+                {
+                    "trackingId": "259402000",
+                    "video_file": "ferry_basto_4.mp4"
+                },
+                {
+                    "trackingId": "257845600",
+                    "video_file": "ferry_basto_4.mp4"
+                },
+                {
+                    "trackingId": "257847600",
+                    "video_file": "ferry_basto_4.mp4"
+                },
+                {
+                    "trackingId": "HC-Extended",
+                    "video_file": "Liebherr-STS-crane.mp4"
+                },
+                {
+                    "trackingId": "RTG-MOSS-001",
+                    "video_file": "RTG-crane.mp4"
+                },
+                {
+                    "trackingId": "Havnekran-Moss",
+                    "video_file": "TDCBulkHandlingCrane.mp4"
+                }
+            ]
+        },
+        {
+            "name" : "Kristiansund",
+            "api_key" : "2c33779c2766480cafce1dd83b3e8b9a",
+            "signalr_hub" : "kristiansund_prod_geo",
+            "latitude" : 63.056534975522588,
+            "longitude" : 7.67202449953841,
+            "demoAssetBundle" : "KRBSDemoAsset",
+        },
+        {
+            "name" : "Tromsø",
+            "api_key" : "8f97590faa6c4541a6b9303716b02c23",
+            "signalr_hub" : "fourpro_demo_geo",
+            "latitude" : 69.675,
+            "longitude" : 18.987,
+            "geoObject_properties" : [
+                {
+                    "trackingId" : "1500LR",
+                    "video_url" : "https://www.youtube.com/watch?v=jGEiSIePVwk&ab_channel=Troms%C3%B8HavnKF-LivestreamSentrum"
+                }
+            ]
+        },
+        {
+            "name": "Zohar Port and Freezone",
+            "siteId": "d8325de0-2048-480f-8a5d-cd538f7638a9",
+            "api_key": "8f97590faa6c4541a6b9303716b02c23",
+            "signalr_hub": "fourpro_demo_geo",
+            "latitude": 24.518431,
+            "longitude": 56.606829,
+            "demoAssetBundle": "SoharDemoAsset",
+            "cameraYLimit": -20,
+            "geoObject_properties": [
+                {
+                    "trackingId": "1500LR",
+                    "video_file": "Liebherr-LHM250-CRANE.mp4"
+                },
+                {
+                    "trackingId": "L120H",
+                    "video_file": "Volvo-L120H-wheelloader.mp4"
+                },
+                {
+                    "trackingId": "4PE-Kalmar-175-Stacker",
+                    "video_file": "KalmarDRG450-65-Reachstacker.mp4"
+                },
+                {
+                    "trackingId": "257846800",
+                    "video_file": "ferry_basto_4.mp4"
+                },
+                {
+                    "trackingId": "257122880",
+                    "video_file": "ferry_basto_4.mp4"
+                },
+                {
+                    "trackingId": "259401000",
+                    "video_file": "ferry_basto_4.mp4"
+                },
+                {
+                    "trackingId": "259402000",
+                    "video_file": "ferry_basto_4.mp4"
+                },
+                {
+                    "trackingId": "257845600",
+                    "video_file": "ferry_basto_4.mp4"
+                },
+                {
+                    "trackingId": "257847600",
+                    "video_file": "ferry_basto_4.mp4"
+                },
+                {
+                    "trackingId": "HC-Extended",
+                    "video_file": "Liebherr-STS-crane.mp4"
+                },
+                {
+                    "trackingId": "RTG-MOSS-001",
+                    "video_file": "RTG-crane.mp4"
+                },
+                {
+                    "trackingId": "Havnekran-Moss",
+                    "video_file": "TDCBulkHandlingCrane.mp4"
+                }
+            ]
+        }
+    ]
+}

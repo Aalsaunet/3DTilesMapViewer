@@ -1,0 +1,46 @@
+{
+    "maintenanceRequests": [
+        {
+            "id": "681c5d67-f97d-4874-906d-ffb75a9e2db5",
+            "description": "Monthy Inspection",
+            "objectType": "common.forklift",
+            "objectId": "c4b110a9-644e-40ea-86d1-cf6a93665c79",
+            "objectName": "Kalmar-175-Stacker",
+            "dateTimeCreated": "2023-12-11T09:48:02.5863514Z",
+            "customerNo": "913909771",
+            "customerName": "EXTREME VANNSPORT AS",
+            "plannedStartDate": null,
+            "plannedDueDate": null,
+            "notes": "Oil and Air Filter",
+            "dateTimeCompleted": null,
+            "status": "Created",
+            "statusDisplayName": "Created",
+            "priority": "Normal",
+            "requestTypeName": "SRV",
+            "requestTypeDescription": "Service",
+            "personResponsibleNumber": "251170",
+            "personResponsibleName": "Ove Johan Skants"
+        },
+        {
+            "id": "73a2a0e9-c843-4c1c-975d-438dc0cc9034",
+            "description": "Mnd checklist",
+            "objectType": "common.vessel",
+            "objectId": "1e281d24-4b33-4d3d-bc70-d988f6cfe06c",
+            "objectName": "ENERGIZER",
+            "dateTimeCreated": "2024-04-01T07:16:04.248725Z",
+            "customerNo": "924404817",
+            "customerName": "FOURPRO SOLUTIONS AS",
+            "plannedStartDate": null,
+            "plannedDueDate": null,
+            "notes": "Mnd checklist",
+            "dateTimeCompleted": null,
+            "status": "Created",
+            "statusDisplayName": "Created",
+            "priority": "Normal",
+            "requestTypeName": "SRV",
+            "requestTypeDescription": "Service",
+            "personResponsibleNumber": "251170",
+            "personResponsibleName": "Ove Johan Skants"
+        }
+    ]
+}
