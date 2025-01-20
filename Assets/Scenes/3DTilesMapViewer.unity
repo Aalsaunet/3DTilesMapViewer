@@ -7963,21 +7963,21 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 42cc73312d5d2434489b0ecbe5c81856, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  kalmarT2OnlyTrailerPrefab: {fileID: 9125331630217440184, guid: d9742e702b8ef46f9b78eeee77451695,
+  kalmarT2OnlyTrailerPrefab: {fileID: 1886825077908340441, guid: 3281e00c5836c48579eaba6a69d76499,
     type: 3}
-  kalmarT2WithoutTrailerPrefab: {fileID: 9125331630217440184, guid: 805abca2fab7e4287a7c236582ae5814,
+  kalmarT2WithoutTrailerPrefab: {fileID: 1886825077908340441, guid: 3281e00c5836c48579eaba6a69d76499,
     type: 3}
-  kalmarT2WithTrailerPrefab: {fileID: 9125331630217440184, guid: 963c1b2978d2b4a71a80e36bcde6dbaa,
+  kalmarT2WithTrailerPrefab: {fileID: 1886825077908340441, guid: 3281e00c5836c48579eaba6a69d76499,
     type: 3}
   forklift3T: {fileID: 5465119651042866067, guid: ce95c50ad14af4451a610b8f6751c1c3,
     type: 3}
-  kalmarForklift7T: {fileID: 9124768166269533129, guid: d72e1d9128155324bb91767868af9eea,
+  kalmarForklift7T: {fileID: 5465119651042866067, guid: ce95c50ad14af4451a610b8f6751c1c3,
     type: 3}
-  kalmarForklift15T: {fileID: 9124768166269533129, guid: 94928767deb6ca04895cd8721e380a1b,
+  kalmarForklift15T: {fileID: 5465119651042866067, guid: ce95c50ad14af4451a610b8f6751c1c3,
     type: 3}
   stackerPrefab: {fileID: 6206871257257802096, guid: 1d12fff6a754562408de7661e57c3cba,
     type: 3}
-  kalmarStackerPrefab: {fileID: 1132919050794765087, guid: 323c60eef00054a47abb839aac1f4236,
+  kalmarStackerPrefab: {fileID: 6206871257257802096, guid: 1d12fff6a754562408de7661e57c3cba,
     type: 3}
   wheelLoaderPrefab: {fileID: 645455763295843750, guid: 94468b10d665bf240b4a7b765e5741ed,
     type: 3}
